@@ -8,7 +8,7 @@
 
 [Материалы 2017](https://yadi.sk/d/evI_RRva3Mab5W)
 
-[Кондуит](https://docs.google.com/spreadsheets/d/1iZ7gLvnKfSx3TUTjl_-gCtDQ66B1JlkO4WZaMj6R0sw/edit?usp=sharing)
+[Кондуит](https://docs.google.com/spreadsheets/d/1_4fqeKG0j2NYxsKh_VzIYap7WdQ-yMYK/edit#gid=777220884)
 
 [**ГРАФИК ЭКЗАМЕНОВ**](https://github.com/stankin/inet-2019/wiki/ex_schedule)
 
