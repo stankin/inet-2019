@@ -4,13 +4,23 @@
 
 [Результаты 2017](https://github.com/stankin/inet-2017)
 
-[Результаты 2018](https://github.com/stankin/inet-2017)
+[Результаты 2018](https://github.com/stankin/inet-2018)
 
 [Материалы 2017](https://yadi.sk/d/evI_RRva3Mab5W)
 
-[Кондуит](https://docs.google.com/spreadsheets/d/1_4fqeKG0j2NYxsKh_VzIYap7WdQ-yMYK/edit#gid=777220884)
+[**Кондуит**](https://docs.google.com/spreadsheets/d/1_4fqeKG0j2NYxsKh_VzIYap7WdQ-yMYK/edit#gid=777220884)
 
-[**ГРАФИК ЭКЗАМЕНОВ**](https://github.com/stankin/inet-2019/wiki/ex_schedule)
+Здесь (Google Table) отмечаются самостоятельно или через старост:
+* посещения
+* результаты тестов
+* распределение на педагогическую практику
+* проектные роли
+
+[**Чат WhatsApp**](https://chat.whatsapp.com/IqyMyglV72O512KNmbl5uE)
+
+Это чат для прямого контакта преподавателей со старостами и всеми желающими присоединиться 
+
+[**ГРАФИК ЭКЗАМЕНОВ (еще не готов)**](https://github.com/stankin/inet-2019/wiki/ex_schedule)
 
 [Все лекции](https://okoff.github.io/oop/%D0%92%D1%81%D0%B5%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf)
 
