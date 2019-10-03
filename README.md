@@ -8,7 +8,7 @@
 
 [Материалы 2017](https://yadi.sk/d/evI_RRva3Mab5W)
 
-[**Кондуит**](https://docs.google.com/spreadsheets/d/1_4fqeKG0j2NYxsKh_VzIYap7WdQ-yMYK/edit#gid=777220884)
+[**Кондуит**](https://docs.google.com/spreadsheets/d/1YBfCBfGZrUc5XJoWlb0x65fSch9kpcsCB17mJ0z-89s/edit#gid=1327184368)
 
 Здесь (Google Table) отмечаются самостоятельно или через старост:
 * посещения
