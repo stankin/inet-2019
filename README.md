@@ -20,8 +20,6 @@
 
 Это чат для прямого контакта преподавателей со старостами и всеми желающими присоединиться 
 
-[**ГРАФИК ЭКЗАМЕНОВ**](https://github.com/stankin/inet-2019/wiki/ex_schedule)
-
 [Все лекции](https://okoff.github.io/oop/%D0%92%D1%81%D0%B5%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf)
 
 [Тест по инновациям](https://okoff.github.io/oop/%D0%A2%D0%B5%D1%81%D1%82%20%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%B8.pdf),
@@ -35,3 +33,5 @@
 
 # Конкурс проектов ИТ 2019
 [Страница конкурса IT проектов 2019](https://inet2019contest.web.app)
+
+# [**ГРАФИК ЭКЗАМЕНОВ**](https://github.com/stankin/inet-2019/wiki/ex_schedule)
