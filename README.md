@@ -20,7 +20,7 @@
 
 Это чат для прямого контакта преподавателей со старостами и всеми желающими присоединиться 
 
-[**ГРАФИК ЭКЗАМЕНОВ (еще не готов)**](https://github.com/stankin/inet-2019/wiki/ex_schedule)
+[**ГРАФИК ЭКЗАМЕНОВ**](https://github.com/stankin/inet-2019/wiki/ex_schedule)
 
 [Все лекции](https://okoff.github.io/oop/%D0%92%D1%81%D0%B5%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf)
 
